@@ -1,0 +1,1 @@
+INSERT INTO alumnos (CODIGO, NOMBRE, APELLIDOS, TELEFONO, CORREO) VALUES (52, ivan, sdfad, 62, asdasd@das.scom)scom)com)
